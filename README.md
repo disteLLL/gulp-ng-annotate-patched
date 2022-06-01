@@ -6,7 +6,7 @@ Fork of [gulp-ng-annotate](https://travis-ci.org/Kagami/gulp-ng-annotate) update
 ## Install
 
 ```bash
-$ npm install --save-dev gulp-ng-annotate-patched
+$ npm install --save-dev @distelll/gulp-ng-annotate-patched
 ```
 
 ## Usage
